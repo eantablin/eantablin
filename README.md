@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋, I'm Emanuel Antablin</h2>
-<h3 align="left">Software Engineer | Ethical Hacker | Philomath</h3>
+<h3 align="left">Software Engineer | Ethical Hacker</h3>
   
 - 🔭 I’m currently working on an emotional recognition predictive model
 - 🌱 I’m learning **Rust** and brushing up on my neuroanatomy
