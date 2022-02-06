@@ -2,9 +2,9 @@
 <h3 align="left">Software Engineer | Ethical Hacker</h3>
   
 - 🔭 I’m currently working on an emotional recognition predictive model
-- 🌱 I’m learning **Rust** and brushing up on my neuroanatomy
+- 🌱 I’m learning **Django** and brushing up on DS&A
 - 👯 I’m looking to collaborate on anything that can help those **in need**
-- 💬 Ask me about **Ethical Hacking**, **Python**, or my language studies
+- 💬 Ask me about **Ethical Hacking**, **Python**, or BJJ
 - 📝 I tend to write articles on **https://eantablin.github.io/blog/**
 - 📫 How to reach me: **eantablin@protonmail.com**
 
