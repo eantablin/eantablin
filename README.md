@@ -1,12 +1,12 @@
-<h2 align="left">Hi there 👋, I'm Emanuel Antablin</h2>
+<h2 align="left">Emanuel Antablin</h2>
 <h3 align="left">Software Engineer | Ethical Hacker</h3>
   
-- 🔭 I’m currently working on an emotional recognition predictive model
-- 🌱 I’m learning **Portuguese** and brushing up on DS&A
-- 👯 I’m looking to collaborate on anything that can help those **in need**
+- 🔭 Currently working on an emotional recognition predictive model
+- 🌱 Learning **Portuguese** and brushing up on DS&A
+- 👯 Open to collaborating on tools that can help those **in need**
 - 💬 Ask me about **Ethical Hacking**, **Python**, or BJJ
 - 📝 I tend to write articles on **https://eantablin.github.io/blog/**
-- 📫 How to reach me: **eantablin@protonmail.com**
+- 📫 Reach out: **eantablin@protonmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
