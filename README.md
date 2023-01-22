@@ -1,5 +1,5 @@
-<h2 align="left">Emanuel Antablin</h2>
-<h3 align="left">Software Engineer | Security Researcher</h3>
+<h2 align="left">Software Engineer | Security Researcher</h2>
+
 
 - 📝 Check out my articles on **https://eantablin.github.io/blog/**
 - 📫 Reach out: **eantablin@protonmail.com**
