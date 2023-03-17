@@ -1,4 +1,4 @@
-<h2 align="left">Software Engineer | Security Researcher</h2>
+<h2 align="left">Computer Scientist | Software Engineer | Security Researcher</h2>
 
 
 - 📝 Check out my articles on **https://eantablin.github.io/blog/**
