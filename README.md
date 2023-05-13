@@ -1,4 +1,4 @@
-<h2 align="left">Research Engineer</h2>
+<h2 align="left">Software Development & Security Consultant</h2>
 
 
 - 📝 Check out my articles on **https://eantablin.github.io/blog/**
