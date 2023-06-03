@@ -1,7 +1,7 @@
 <h2 align="left">Help me help you</h2>
 
 
-- 📝 Check out my articles on **https://eantablin.github.io/blog/**
+- 📝 Check out my articles on **https://eantablin.github.io/welcome/**
 - 📫 Reach out: **eantablin@protonmail.com**
 
 
