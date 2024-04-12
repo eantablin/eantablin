@@ -1,7 +1,7 @@
 <h2 align="left">Help me help you</h2>
 
 
-- 📝 Check out my <a href="https://www.antablin.com/" target="_blank">homepage</a>
+- 📝 Check out my <a href="https://www.antablin.com/" target="_blank">blog</a>
 - 📫 Reach out: **eantablin@protonmail.com**
 
 
